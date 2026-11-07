@@ -19,6 +19,19 @@ jobs:
           filename: Assets/github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Abidjan
+          extras_css: |
+            svg {
+              font-size: 12px;
+            }
+            h1 {
+              font-size: 18px;
+            }
+            h2 {
+              font-size: 14px;
+            }
+            h3 {
+              font-size: 12px;
+            }
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
