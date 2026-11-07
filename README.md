@@ -66,6 +66,7 @@ Embedded Systems · Internet of Things · Automation · Software Development · 
 - **LinkedIn:** [@LinkedIn](https://www.linkedin.com/in/yaoyapiyannstephane/)
 - **WhatsApp:** [@NayGear](https://wa.me/22505851353?text=Hi%20Yao%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20project.)
 - **Portfolio:** [@Me](https://mycv-linv.onrender.com/)
+- **Game:** [@Game]([https://mycv-linv.onrender.com/](https://link.chess.com/friend/pX78mk))
 - **Articles:** Coming soon...
 
 <div align="center">
